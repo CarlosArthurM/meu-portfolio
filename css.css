@@ -335,7 +335,7 @@ hr{
 }
 
 @media screen and (max-width: 900px) {
-    .header{
+    .header a{
         display: none;
     }
 
