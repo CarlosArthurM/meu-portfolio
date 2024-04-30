@@ -295,7 +295,6 @@ form textarea{
 form .botão-enviar{
     margin-top: 15px;
     text-align: center;
-    cursor: pointer;
 }
 
 form .botão-enviar input{
@@ -304,6 +303,7 @@ form .botão-enviar input{
     background-color: #6b02b1;
     box-shadow: 0 0 20px #9900ff;
     transition: 1.5s;
+    cursor: pointer;
 }
 
 form .botão-enviar input:hover{
