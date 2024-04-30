@@ -353,6 +353,11 @@ hr{
         padding-top: 200px;
     }
 
+    .header i{
+        font-size: 35px;
+        position: absolute;
+        right: 35px;
+    }
 }
 
 @media screen and (max-width: 412px) {
