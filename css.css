@@ -220,7 +220,7 @@ section.projetos .slides{
     border-radius: 20px;
     display: flex;
     flex-direction: column;
-    transition: 1.5s;
+    transition: 0.5s;
     gap: 10px;
 }
 
@@ -286,7 +286,7 @@ section.flyers .slides-flyer{
     margin: 10px;
     box-shadow:0 0 15px #242222;
     border-radius: 20px;
-    transition: 1.5s;
+    transition: 0.5s;
 }
 
 .card-flyer:hover{
