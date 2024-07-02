@@ -220,7 +220,7 @@ section.projetos .slides{
     border-radius: 20px;
     display: flex;
     flex-direction: column;
-    transition: 0.5s;
+    transition:  0.5s;
     gap: 10px;
 }
 
