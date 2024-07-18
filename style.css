@@ -444,6 +444,7 @@ dialog button{
     cursor: pointer;
     background-color: #ff0000;
     color: #fff;
+    border: none;
 }
 
 dialog::backdrop{
