@@ -1,1 +1,1 @@
-Este portfólio feito por mim é muito importante, pois através dele posso demonstrar minhas habilidades técnicas, projetos anteriores e interesse em aprimorar meus conhecimentos continuamente. Acredito que este projeto seja um diferencial importante para me destacar no mercado.
+Este portfólio feito por mim é muito importante, pois através dele posso demonstrar minhas habilidades técnicas e projetos anteriores, além disso eu tenho interesse em aprimorar meus conhecimentos continuamente. Acredito que este projeto seja um diferencial importante para me destacar no mercado.
