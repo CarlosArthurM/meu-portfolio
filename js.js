@@ -27,3 +27,13 @@ mode.addEventListener('click', () => {
 document.getElementById('mode_icon').addEventListener('click', function() {
     document.body.classList.toggle('dark-mode');
 });
+
+function abreModal() {
+  const modal = document.getElementById('myModal');
+  modal.showModal();
+}
+
+function fechaModal() {
+  const modal = document.getElementById('myModal');
+  modal.close();
+}
