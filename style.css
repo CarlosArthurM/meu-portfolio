@@ -63,14 +63,11 @@ body.dark-mode #direitos {
 /*cabeçalho e navbar*/
 header {
   position: fixed;
-  top: 0;
-  left: 60%;
+  top: 10px;
+  left: 70%;
   width: 100%;
-  padding: 20px 5%;
   background: transparent;
   display: flex;
-  justify-content: space-between;
-  z-index: 100;
 }
 
 header i {
